@@ -83,6 +83,24 @@ Get in, gear up, and dominate the game with **Xeno** 🎮✨
 
 ---
 
+---
+
+## ⚠️ Disclaimer
+
+*Xeno is an independent project and is not affiliated with, endorsed by, or associated with Roblox Corporation.*  
+All trademarks, service marks, and trade names referenced in this repository are the property of their respective owners.
+
+This tool is provided for educational and research purposes only. Usage of Xeno may violate Roblox’s Terms of Service, and the developers of this project do not encourage or condone any behavior that breaches those terms.
+
+By downloading, installing, or using Xeno, you agree that:
+- You are solely responsible for any consequences that arise from its use.
+- The developers and contributors to this project assume no liability for any account bans, data loss, or other damages.
+- You use this tool at your own risk.
+
+If you are unsure whether your intended use of Xeno complies with Roblox's policies, please consult Roblox's official [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use) and [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410).
+
+---
+
 ## 🔗 Stay Connected
 
 - 💬 [Join Discord](https://discord.com/)
